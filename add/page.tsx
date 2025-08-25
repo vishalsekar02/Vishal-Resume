@@ -2,6 +2,15 @@
 
 import { motion } from "framer-motion";
 
+import React from "react";
+import { motion } from "framer-motion";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Separator } from "@/components/ui/separator";
+import { Mail, Phone, MapPin, Github, Linkedin, Download, Rocket, Briefcase, GraduationCap, Award } from "lucide-react";
+
 // --- Data ---
 const CONTACT = {
   name: "Vishal Sekar",
@@ -10,7 +19,8 @@ const CONTACT = {
   phone: "+91 8939448148",
   email: "gv0207@gmail.com",
   links: {
-    linkedin: https://www.linkedin.com/in/vishal-sekar-9b75a9219,
+    github: null,
+    linkedin: null,
   },
 };
 
