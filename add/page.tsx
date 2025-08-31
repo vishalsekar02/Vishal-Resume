@@ -19,9 +19,8 @@ const CONTACT = {
   phone: "+91 8939448148",
   email: "gv0207@gmail.com",
   links: {
-    github: null,
-    linkedin: null,
-  },
+  linkedin: "https://www.linkedin.com/in/vishal-sekar-9b75a9219",
+},
 };
 
 const SUMMARY = `Detail-oriented Software Test Engineer with 5+ years of experience in Manual, API, and Automation Testing (Eggplant, Postman). Skilled in Agile methodologies, defect lifecycle management, and test automation across Logistics, Telecom, Insurance, Healthcare, and E‑Commerce domains. Proven collaborator with cross-functional teams; leverages Generative AI to enhance testing efficiency and quality.`;
